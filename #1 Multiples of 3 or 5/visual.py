@@ -1,4 +1,3 @@
-```python
 # Project Euler #1 - Visual
 # Graphically display the multiples of 3 or 5 below 1000.
 
@@ -20,4 +19,3 @@ plt.ylabel("Value")
 # Show the result
 plt.tight_layout()
 plt.show()
-```
