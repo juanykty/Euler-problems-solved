@@ -1,4 +1,3 @@
-```python
 # Project Euler #1 - Memory Optimized
 # O(1) time and O(1) memory.
 # Uses the arithmetic series formula instead of iterating.
@@ -14,10 +13,3 @@ print(
     5 * series(999 // 5) -
     15 * series(999 // 15)
 )
-```
-
-### Output
-
-```text
-233168
-```
